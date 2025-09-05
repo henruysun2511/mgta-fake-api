@@ -339,7 +339,10 @@
       "unit": "2",
       "totalTime": 20,
       "totalQuestion": 10,
-      "images": [],
+      "images": [
+        "https://static-assets.prepcdn.com/content-management-system/de_minh_hoa_tieng_anh_2025_0943e315b3.jpg",
+        "https://static-assets.prepcdn.com/content-management-system/de_minh_hoa_tieng_anh_2025_0943e315b3.jpg"
+      ],
       "deleted": false,
       "questions": [
         {
@@ -349,6 +352,10 @@
         {
           "index": 2,
           "answer": "D"
+        }
+         {
+          "index": 3,
+          "answer": "Huy Sun"
         }
       ]
     },
